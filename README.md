@@ -33,13 +33,18 @@ Opening Insomnia and MongoDB Compass
 > create a env file with the url  MONGODB_URI=mongodb://127.0.0.1:27017/socialNetworkDB
 
 > [!IMPORTANT]
-> none
+![Descripción de la imagen](SocialNetwork/proyecto17.jpg)
+> 
+![imagen](SocialNetwork/proyecto17-2.jpg)
+
+![imagen](SocialNetwork/proyecto17-3.jpg)
+> 
 
 > [!WARNING]
-> none
+> [Video Demostration](https://youtu.be/np0YEnCX6Dg)
 
 > [!TIP]
-> none
+> (https://youtu.be/np0YEnCX6Dg)
 
 ## License
 This project is licensed under the MIT license.
