@@ -33,9 +33,9 @@ Opening Insomnia and MongoDB Compass
 > create a env file with the url  MONGODB_URI=mongodb://127.0.0.1:27017/socialNetworkDB
 
 > [!IMPORTANT]
-([screen1](https://github.com/sieke13/Module-17-Challenge/blob/main/SocialNetwork/proyecto17.jpg?raw=true))
-([screen2](https://github.com/sieke13/Module-17-Challenge/blob/main/SocialNetwork/proyecto17-2.jpg?raw=true))
-> ([screen3](https://github.com/sieke13/Module-17-Challenge/blob/main/SocialNetwork/proyecto17-3.jpg?raw=true))
+!([screen1](https://github.com/sieke13/Module-17-Challenge/blob/main/SocialNetwork/proyecto17.jpg?raw=true))
+!([screen2](https://github.com/sieke13/Module-17-Challenge/blob/main/SocialNetwork/proyecto17-2.jpg?raw=true))
+!([screen3](https://github.com/sieke13/Module-17-Challenge/blob/main/SocialNetwork/proyecto17-3.jpg?raw=true))
 > 
 
 > [!WARNING]
