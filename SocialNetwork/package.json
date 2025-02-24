@@ -1,0 +1,27 @@
+{
+    "name": "social-network",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "npx tsc",
+        "seed": "npm run build && node dist/seeds/index.js",
+        "start": "npx tsc && node dist/server.js"
+    },
+    "dependencies": {
+        "concurrently": "^8.2.2",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "mongoose": "^8.10.0"
+    },
+    "devDependencies": {
+        "@types/express": "^5.0.0",
+        "@types/mongoose": "^5.11.96",
+        "typescript": "^5.7.3",
+        "wait-on": "^7.2.0"
+    },
+    "keywords": [],
+    "description": "",
+    "license": "MIT"
+}
